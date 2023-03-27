@@ -24,7 +24,8 @@
   flex-direction: column;
   /*General properties*/
   color: var(--letter-color);
-  font-size: 30px;
+  font-size: 70px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -35,19 +36,19 @@
 
 /*Panel background*/
 .panel1 {
-  background-image: url(../img/pexels-ave-calvar-martinez-3656870.jpg);
+  background-image: url(../img/pexels-arthur-brognoli-2327372.jpg);
 }
 .panel2 {
-  background-image: url(../img/pexels-ave-calvar-martinez-3656870.jpg);
+  background-image: url(../img/pexels-charles-parker-5847439.jpg);
 }
 .panel3 {
-  background-image: url(../img/pexels-ave-calvar-martinez-3656870.jpg);
+  background-image: url(../img/pexels-fan-joo-926598.jpg);
 }
 .panel4 {
-  background-image: url(../img/pexels-ave-calvar-martinez-3656870.jpg);
+  background-image: url(../img/pexels-jess-loiterton-4321162.jpg);
 }
 .panel5 {
-  background-image: url(../img/pexels-ave-calvar-martinez-3656870.jpg);
+  background-image: url(../img/pexels-maria-orlova-4916146.jpg);
 }
 
 /*Flex items*/
