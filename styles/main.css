@@ -24,7 +24,8 @@
   flex-direction: column;
   /*General properties*/
   color: var(--letter-color);
-  font-size: 70px;
+  font-size: 50px;
+  box-shadow: inset 0 0 0 5px rgba(255, 255, 255, 0.1);
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   background-position: center center;
   background-repeat: no-repeat;
@@ -36,19 +37,19 @@
 
 /*Panel background*/
 .panel1 {
-  background-image: url(../img/pexels-arthur-brognoli-2327372.jpg);
+  background-image: url(../img/5.jpg);
 }
 .panel2 {
-  background-image: url(../img/pexels-charles-parker-5847439.jpg);
+  background-image: url(../img/4.jpg);
 }
 .panel3 {
-  background-image: url(../img/pexels-fan-joo-926598.jpg);
+  background-image: url(../img/3.jpg);
 }
 .panel4 {
-  background-image: url(../img/pexels-jess-loiterton-4321162.jpg);
+  background-image: url(../img/2.jpg);
 }
 .panel5 {
-  background-image: url(../img/pexels-maria-orlova-4916146.jpg);
+  background-image: url(../img/1.jpg);
 }
 
 /*Flex items*/
